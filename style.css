@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,500;1,700&display=swap');
+
+
+
+*{
+    font-family: "Open Sans";
+}
+
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+h3 {
+    font-size: 25px;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+blockquote {
+    font-size: 18px;
+}
