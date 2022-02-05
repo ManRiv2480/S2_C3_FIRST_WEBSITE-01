@@ -1,24 +1,65 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,500;1,700&display=swap');
 
 
+* {
+    background-color: cornsilk;
+    
+}
+
+
+blockquote{
+    background-color: cornsilk;
+    width: 350px;
+}
+
+body {
+    background-image: url("https://officialpsds.com/imageview/7l/nn/7lnnzk_large.png?1521316608");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 10px;
+    background-attachment: fixed;
+  }
 
 *{
     font-family: "Open Sans";
 }
 
+#Intro{
+    background-color: cornsilk;
+    width: 500px;
+    
+
+}
+
+#T1{
+    background-color: cornsilk;
+    width: 500px;
+}
+
+ul{
+    background-color: cornsilk;
+    width: 500px;
+}
+
 
 h1 {
     font-size: 70px;
+    background-color: cornsilk;
+    width: 500px;
 }
 
 h2 {
     font-size: 30px;
     color: cornflowerblue;
+    background-color: cornsilk;
+    width: 750px;
 }
 
 h3 {
     font-size: 25px;
     color: black;
+    background-color: cornsilk;
+    width: 100px;
 }
 
 p {
